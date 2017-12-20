@@ -1,6 +1,6 @@
 
-# Kincaid funs UNIVARIATE.R     20 October 2017     Author: Dwight Kincaid
-#                                                        dwight.kincaid@lehman.cuny.edu
+# Kincaid funs UNIVARIATE.R     20 December 2017     Author: Dwight Kincaid
+#                                                    dwight.kincaid@lehman.cuny.edu
 ##
 ##
 ##    FUNCTION  DEFINITIONS  --  for use on a single, numeric sample, e.g., a vector
